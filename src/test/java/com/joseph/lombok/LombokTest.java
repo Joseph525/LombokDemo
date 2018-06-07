@@ -3,7 +3,7 @@ package com.joseph.lombok;
 import org.junit.Test;
 
 /**
- * Created by dys09435 on 2017/3/14.
+ * Created by Joseph on 2017/3/14.
  */
 public class LombokTest {
 
